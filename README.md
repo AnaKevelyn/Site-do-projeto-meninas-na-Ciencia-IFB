@@ -1,1 +1,1 @@
-# site-do-projeto-Meninas-na-Ci-ncia---IFB
+# site-do-projeto Meninas na Ciencia-IFB
