@@ -6,29 +6,18 @@
 <p>A imagem contém a primeira página com o menu e em seguida uma foto das integrantes, os objetivos do projeto e os eventos que comparecem constantemente.</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="page1.png" width="330"></td>
-      <td><img src="page2.png" width="330"></td>
-    </tr>
-    <tr>
-      <td><img src="page3.png" width="330"></td>
+      <td><img src="page1.png" width="340"></td>
+      <td><img src="page2.png" width="329"></td>
+      <td><img src="page3.png" width="340"></td>
       <td><img src="page4.png" width="330"></td>
-    </tr>
-  </table>
 </div>
 
 <p>Imagens do dia e horários das reuniões quinzenais, quem somos, como participar do projeto, contato e redes sociais.</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="page5.png" width="330"></td>
+      <td><img src="page5.png" width="340"></td>
       <td><img src="page6.png" width="330"></td>
-    </tr>
-    <tr>
-      <td><img src="page7.png" width="330"></td>
-      <td><img src="page8.png" width="330"></td>
-    </tr>
-  </table>
+      <td><img src="page7.png" width="340"></td>
+      <td><img src="page8.png" width="329"></td>
+
 </div>
