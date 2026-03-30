@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>A imagem contém a primeira página com o menu e em seguida uma foto das integrantes, os objetivos do projeto e os eventos que comparecem constantemente.</p>
+<p>As imagens contém a apresentação com um menu, uma foto das integrantes, os objetivos do projeto e os eventos que comparecem constantemente.</p>
 
 <div align="center">
       <td><img src="page1.png" width="360"></td>
@@ -12,7 +12,7 @@
       <td><img src="page4.png" width="352"></td>
 </div>
 
-<p>Imagens do dia e horários das reuniões quinzenais, quem somos, como participar do projeto, contato e redes sociais.</p>
+<p>Imagens do dia e horários das reuniões quinzenais, quem somos, como participar do projeto, contato e redes sociais respectivamente.</p>
 
 <div align="center">
       <td><img src="page5.png" width="355"></td>
