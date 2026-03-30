@@ -8,12 +8,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="./imagens/page1.png" width="330"></td>
-      <td><img src="./imagens/page2.png" width="330"></td>
+      <td><img src="page1.png" width="330"></td>
+      <td><img src="page2.png" width="330"></td>
     </tr>
     <tr>
-      <td><img src="./imagens/page3.png" width="330"></td>
-      <td><img src="./imagens/page4.png" width="330"></td>
+      <td><img src="page3.png" width="330"></td>
+      <td><img src="page4.png" width="330"></td>
     </tr>
   </table>
 </div>
@@ -23,12 +23,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="./imagens/page5.png" width="330"></td>
-      <td><img src="./imagens/page6.png" width="330"></td>
+      <td><img src="page5.png" width="330"></td>
+      <td><img src="page6.png" width="330"></td>
     </tr>
     <tr>
-      <td><img src="./imagens/page7.png" width="330"></td>
-      <td><img src="./imagens/page8.png" width="330"></td>
+      <td><img src="page7.png" width="330"></td>
+      <td><img src="page8.png" width="330"></td>
     </tr>
   </table>
 </div>
