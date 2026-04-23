@@ -34,7 +34,7 @@ Além disso, o site contribui para ampliar o alcance das atividades do projeto, 
 ├── /js            # scripts
 ├── /pages         # páginas secundárias
 │
-└── /legacy        # arquivos antigos / protótipo (inclui imagens usadas no README)
+└── /legacy        # arquivos antigos / protótipo 
 ```
 
 ---
@@ -79,7 +79,7 @@ O projeto está disponível em:
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autoras
 
 Desenvolvido por **Emily Silva** e **Débora Reinita**
 
