@@ -45,13 +45,13 @@ background-image: url('../assets/img_site/img_fundo.png');
 }
 
 .moldura-foto {
-    width: 470px;
-    height: 260px;
-    margin: 0 auto;
-    border-radius: 50% / 50%; 
-    overflow: hidden;
-    border: 5px solid white;
-     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  width: 470px;
+  height: 260px;
+  margin: 0 auto;
+  border-radius: 50% / 50%; 
+  overflow: hidden;
+  border: 5px solid white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
 .img-meninas {
