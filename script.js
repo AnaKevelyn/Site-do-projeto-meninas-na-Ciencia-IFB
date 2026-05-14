@@ -14,13 +14,4 @@ function scrollSmooth(event) {
         link.addEventListener('click', scrollSmooth);
     });
 
-const questions = document.querySelectorAll('.pergunta-faq');
-    questions.forEach((question) => {
-        question.addEventListener('click', () => {
-            question.classList.toggle('aberta');
-            const resposta = question.nextElementSibling;
-            if (resposta) {
-                resposta.classList.toggle('visivel');
-            }
-        });
-    });
+
